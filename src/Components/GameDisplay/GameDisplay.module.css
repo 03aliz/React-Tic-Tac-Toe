@@ -1,0 +1,12 @@
+.Grid {
+    border:2px solid black;
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.TopRow,.MiddleRow,.BottomRow {
+    display: flex;
+    justify-content: center;
+}
+
